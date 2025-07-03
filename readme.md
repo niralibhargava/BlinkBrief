@@ -1,10 +1,5 @@
-Here’s your README with all emojis removed and a clean, modern tone:
-
----
 
 # BlinkBrief - AI Article Summarizer Chrome Extension Powered by Gemini API
-
-> Summarize articles instantly with one click using Generative AI.
 
 ---
 
